@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ShowCheckBoxes="true">
+  <TopNode>1-1007</TopNode>
+  <SelectedNode>1-1007</SelectedNode>
+  <SelectedCategories />
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node Id="1-1007" Expanded="true" />
+    <Node Id="1-1008" Expanded="true" />
+    <Node Id="1-1009" Expanded="true" />
+    <Node Id="1-1000" Expanded="true" />
+  </Nodes>
+</VisualState>

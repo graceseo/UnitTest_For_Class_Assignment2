@@ -1,0 +1,13 @@
+C:\SCHOOL\QA\GSeoAssignment2\PROG2070_GSeoAssignment2\PROG2070_GSeoAssignment2\bin\Debug\PROG2070_GSeoAssignment2.exe.config
+C:\SCHOOL\QA\GSeoAssignment2\PROG2070_GSeoAssignment2\PROG2070_GSeoAssignment2\bin\Debug\PROG2070_GSeoAssignment2.exe
+C:\SCHOOL\QA\GSeoAssignment2\PROG2070_GSeoAssignment2\PROG2070_GSeoAssignment2\bin\Debug\PROG2070_GSeoAssignment2.pdb
+C:\SCHOOL\QA\GSeoAssignment2\PROG2070_GSeoAssignment2\PROG2070_GSeoAssignment2\obj\Debug\PROG2070_GSeoAssignment2.csproj.CoreCompileInputs.cache
+C:\SCHOOL\QA\GSeoAssignment2\PROG2070_GSeoAssignment2\PROG2070_GSeoAssignment2\obj\Debug\PROG2070_GSeoAssignment2.exe
+C:\SCHOOL\QA\GSeoAssignment2\PROG2070_GSeoAssignment2\PROG2070_GSeoAssignment2\obj\Debug\PROG2070_GSeoAssignment2.pdb
+G:\GSeoAssignment2-master\GSeoAssignment2-master\PROG2070_GSeoAssignment2\PROG2070_GSeoAssignment2\bin\Debug\PROG2070_GSeoAssignment2.exe.config
+G:\GSeoAssignment2-master\GSeoAssignment2-master\PROG2070_GSeoAssignment2\PROG2070_GSeoAssignment2\bin\Debug\PROG2070_GSeoAssignment2.exe
+G:\GSeoAssignment2-master\GSeoAssignment2-master\PROG2070_GSeoAssignment2\PROG2070_GSeoAssignment2\bin\Debug\PROG2070_GSeoAssignment2.pdb
+G:\GSeoAssignment2-master\GSeoAssignment2-master\PROG2070_GSeoAssignment2\PROG2070_GSeoAssignment2\obj\Debug\PROG2070_GSeoAssignment2.csprojAssemblyReference.cache
+G:\GSeoAssignment2-master\GSeoAssignment2-master\PROG2070_GSeoAssignment2\PROG2070_GSeoAssignment2\obj\Debug\PROG2070_GSeoAssignment2.csproj.CoreCompileInputs.cache
+G:\GSeoAssignment2-master\GSeoAssignment2-master\PROG2070_GSeoAssignment2\PROG2070_GSeoAssignment2\obj\Debug\PROG2070_GSeoAssignment2.exe
+G:\GSeoAssignment2-master\GSeoAssignment2-master\PROG2070_GSeoAssignment2\PROG2070_GSeoAssignment2\obj\Debug\PROG2070_GSeoAssignment2.pdb

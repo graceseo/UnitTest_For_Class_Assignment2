@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROG2070_GSeoAssignment2", "PROG2070_GSeoAssignment2\PROG2070_GSeoAssignment2.csproj", "{32AE8E6B-C5ED-4DD1-80CC-33BF8691BDDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROG2070_GSeoAssignment2.Tests", "PROG2070_GSeoAssignment2.Tests\PROG2070_GSeoAssignment2.Tests.csproj", "{838B0772-3971-4DF6-B694-AF4647D897C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32AE8E6B-C5ED-4DD1-80CC-33BF8691BDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AE8E6B-C5ED-4DD1-80CC-33BF8691BDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AE8E6B-C5ED-4DD1-80CC-33BF8691BDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AE8E6B-C5ED-4DD1-80CC-33BF8691BDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838B0772-3971-4DF6-B694-AF4647D897C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838B0772-3971-4DF6-B694-AF4647D897C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838B0772-3971-4DF6-B694-AF4647D897C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838B0772-3971-4DF6-B694-AF4647D897C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {356237F7-5C0B-45BF-880F-DB8A7C40EF91}
+	EndGlobalSection
+EndGlobal
